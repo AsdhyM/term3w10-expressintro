@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "term3w10",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
